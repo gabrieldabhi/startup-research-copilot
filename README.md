@@ -108,7 +108,8 @@ The system uses a modular AI pipeline that dynamically routes user queries to th
 3. Retrieved context is passed to the **Prompt Builder**.
 4. The prompt is processed by the **Groq Llama-3.3-70B-Versatile**.
 5. The response is returned through the **Streamlit chat interface** with sources and reasoning.
-```
+
+---
 
 # Tech Stack
 
