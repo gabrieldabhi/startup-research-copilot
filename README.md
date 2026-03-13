@@ -110,8 +110,6 @@ The system uses a modular AI pipeline that dynamically routes user queries to th
 5. The response is returned through the **Streamlit chat interface** with sources and reasoning.
 ```
 
----
-
 # Tech Stack
 
 | Component       | Technology              |
