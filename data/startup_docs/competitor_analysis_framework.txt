@@ -1,0 +1,25 @@
+Competitor Analysis Framework
+
+Competitor analysis is the process of identifying and evaluating companies that operate in the same market as a startup. Understanding competitors helps startups develop stronger strategies and differentiate their products.
+
+A typical competitor analysis examines several key areas.
+
+Direct Competitors
+
+Direct competitors offer similar products or services that solve the same problem. Startups must understand how these companies position themselves in the market.
+
+Indirect Competitors
+
+Indirect competitors provide alternative solutions that may satisfy the same customer need. These alternatives can sometimes pose significant threats even if they operate in different industries.
+
+Market Positioning
+
+Competitor analysis also involves studying how companies present their products to customers. Market positioning includes pricing strategy, brand identity, and value proposition.
+
+Product Comparison
+
+Startups often compare features, usability, and performance between competing products. Identifying gaps in competitors’ offerings can help startups create differentiated solutions.
+
+Strategic Insights
+
+By analyzing competitors, startups can identify opportunities to improve their products, reach underserved customer segments, or develop unique features that stand out in the market.
