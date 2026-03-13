@@ -193,6 +193,8 @@ The application can be deployed using **Streamlit Cloud**.
 
 After deployment, users can access the chatbot through a browser interface.
 
+Live Demo: https://startup-research-copilot-bpudnwuxxbwiq6hlgzdaov.streamlit.app/
+
 ---
 
 # Author
