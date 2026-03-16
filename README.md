@@ -199,4 +199,5 @@ Live Demo: https://startup-research-copilot-bpudnwuxxbwiq6hlgzdaov.streamlit.app
 
 # Author
 
-AI Engineer Assignment Submission
+Gabriel Dabhi 
+
